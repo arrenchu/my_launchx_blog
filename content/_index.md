@@ -1,18 +1,14 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: 
 ---
 
-Hola ✌️  soy el explorer **Oswaldo Estrada Arrenchu** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy el explorer **Oswaldo Estrada Arrenchu** y este es mi blog personal donde compartiré mis aventuras de Launch X y posteriores.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+Te invito a conocer mis aprendizajes, mis pensamientos, historias y experiencias de todo tipo. 
 
-Me considero una persona alegre. El simple hecho de estar vivo, sentir la vida, disfrutar incluso de los pequeños detalles ya es un milagro. 
-Mis expectativas de aprendizaje en este curso: 
+Me considero una persona alegre. El simple hecho de estar vivo, sentir la vida, disfrutar incluso de los pequeños detalles ya es un milagro. Pero al mismo tiempo, también me considero una persona con muchos miedos. Sobre todo al fracaso. Me abruma lo complicado que es sobrevivir en este mundo y en esta sociedad. En ocasiones me siento que no estoy a la altura de la inteligencia de los que me rodean. 
+Actualmente me siento afortunado, porque todo está alineado para que comience a hacer bien las cosas. Tengo una familia (esposa, 3 hermosos hijos), tengos vivos a mis dos padres, tengo hermanos que me apoyan en todas mis decisiones. Es decir, en mi núcleo nada me preocupa. Lo que me preocupa es allá afuera... el cómo ganarme la vida. 
 
-- Entender GIT y GITHUB 
-- Entender Backend y dominar Javascript
-- Poder desplegar mi primer pagina funcional. 
-- tener las herramientas fundamentales para tomar el camino para volverme experto como desarrollador fullstack. 
 
 🚀
