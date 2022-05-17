@@ -11,7 +11,7 @@ trabajo duro
 aprendizaje continuo
 respeto a los demás 
 analitico 
-simplicidad 
+simplicidad / ser intuitivo 
 efectividad en el uso del tiempo 
 amor por su familia 
 
